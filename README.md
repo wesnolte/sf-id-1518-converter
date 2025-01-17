@@ -1,17 +1,17 @@
-# sfid-converter
+# sf-id-1518-converter
 
 Convert Salesforce IDs between 15 and 18 characters. You can see this converter in action at [RatedCalculator's Salesforce ID Converter](https://www.ratedcalculator.com/calculators/software/salesforce-id-converter).
 
 ## Installation
 
 ```bash
-npm install sfid-converter
+npm install sf-id-1518-converter
 ```
 
 ## Usage
 
 ```typescript
-import { to18, to15 } from "sfid-converter";
+import { to18, to15 } from "sf-id-1518-converter";
 
 // Convert 15-character ID to 18-character
 const id18 = to18("a01B000000JsLAI");

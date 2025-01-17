@@ -5,7 +5,7 @@
   "homepage": "https://www.ratedcalculator.com/calculators/software/salesforce-id-converter",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/sfid-converter"
+    "url": "https://github.com/wesnolte/sf-id-1518-converter"
   },
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
