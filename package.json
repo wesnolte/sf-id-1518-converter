@@ -1,11 +1,11 @@
 {
   "name": "sf-id-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert Salesforce IDs between 15 and 18 characters",
   "homepage": "https://www.ratedcalculator.com/calculators/software/salesforce-id-converter",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wesnolte/sf-id-1518-converter"
+    "url": "https://github.com/wesnolte/sf-id-converter"
   },
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
