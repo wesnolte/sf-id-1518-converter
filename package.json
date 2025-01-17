@@ -1,5 +1,5 @@
 {
-  "name": "sf-id-1518-converter",
+  "name": "sf-id-converter",
   "version": "1.0.0",
   "description": "Convert Salesforce IDs between 15 and 18 characters",
   "homepage": "https://www.ratedcalculator.com/calculators/software/salesforce-id-converter",
